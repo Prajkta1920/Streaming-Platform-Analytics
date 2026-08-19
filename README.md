@@ -19,12 +19,12 @@ Interactive dashboards were developed in Power BI to monitor critical business m
 
 The project focused on identifying the factors that influence customer retention and content consumption while uncovering trends in user behavior across different subscription plans, devices, and content categories. The analytical findings generated actionable recommendations that can help OTT platforms optimize content strategies, improve customer experience, reduce subscriber churn, and maximize revenue.
 
-# Project Workflow
+Project Workflow
 
 Raw Data → SQL → Data Cleaning → Feature Engineering →
 Power BI Dashboard → Business Insights
 
-# Key Responsibilities
+Key Responsibilities
 
 - Designed and implemented a relational database for OTT streaming data.
 - Performed data extraction, cleaning, transformation, and validation using Python and SQL.
