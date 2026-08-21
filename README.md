@@ -52,3 +52,23 @@ The project aims to analyze OTT platform data and provide actionable insights to
 - **GitHub:** Project version control and portfolio management.
 
 ---
+<h2><a class="anchor" id="method"></a>Method or Framework Followed in these project</h2>
+the StreamVerse OTT Platform Analytics project follows an end-to-end analytics framework that moves from understanding the business problem to delivering actionable business recommendations.
+
+Project Methodology
+
+1. **Business Understanding:** Understand the OTT business, subscription lifecycle, viewer engagement, content performance, churn, and stakeholder requirements.
+
+2. **Database Design:** Design normalized tables for users, subscriptions, content, watch history, recommendations, playback, campaigns, and complaints.
+
+3. **Data Generation:** Generate realistic OTT data representing subscriber behavior, viewing activity, subscriptions, recommendations, playback events, campaigns, and complaints.
+
+4. **Data Quality & Cleaning:** Identify and handle missing values, duplicates, invalid dates, outliers, inconsistent categories, negative values, and referential issues using SQL and Python.
+
+5. **Exploratory Data Analysis (EDA):** Analyze subscriber trends, churn, watch time, content performance, subscription revenue, recommendation conversion, playback issues, campaigns, and customer complaints.
+
+6. **Feature Engineering:** Create business-focused features such as binge-watcher flag, inactive-user flag, completion category, playback-issue flag, recommendation conversion flag, user engagement score, and churn-risk score.
+
+7. **Power BI Dashboarding:** Develop dashboards covering executive performance, viewer engagement, content performance, subscription & revenue, recommendation & playback, and campaign & complaint analytics.
+
+8. **Business Insights & Recommendations:** Convert the analysis into actionable recommendations focused on customer retention, content strategy, playback improvements, recommendation effectiveness, and campaign strategy.
