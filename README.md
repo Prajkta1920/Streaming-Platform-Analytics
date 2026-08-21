@@ -44,10 +44,10 @@ The project aims to analyze OTT platform data and provide actionable insights to
 ---
 
 <h2><a class="anchor" id="Tools-Technologies"></a>Tools and Technologies</h2>
-- **SQL (MySQL/SQL Server):** Database design, data generation, and data analysis.
-- **Python:** Data cleaning, exploratory data analysis (EDA), and feature engineering.
-- **Power BI:** Interactive dashboards and business reporting.
-- **Excel:** Data analysis and supporting business analysis.
-- **GitHub:** Project version control and portfolio management.
+-**SQL (MySQL/SQL Server):** Database design, data generation, and data analysis.
+-**Python:** Data cleaning, exploratory data analysis (EDA), and feature engineering.
+-**Power BI:** Interactive dashboards and business reporting.
+-**Excel:** Data analysis and supporting business analysis.
+-**GitHub:** Project version control and portfolio management.
 
 ---
