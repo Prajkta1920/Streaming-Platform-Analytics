@@ -52,10 +52,10 @@ The project aims to analyze OTT platform data and provide actionable insights to
 - **GitHub:** Project version control and portfolio management.
 
 ---
-<h2><a class="anchor" id="method"></a>Method or Framework Followed in these project</h2>
-the StreamVerse OTT Platform Analytics project follows an end-to-end analytics framework that moves from understanding the business problem to delivering actionable business recommendations.
+<h2><a class="anchor" id="method"></a>Method or Framework Followed </h2>
+The StreamVerse OTT Platform Analytics project follows an end-to-end analytics framework that moves from understanding the business problem to delivering actionable business recommendations.
 
-Project Methodology
+Project Methodology:
 
 1. **Business Understanding:** Understand the OTT business, subscription lifecycle, viewer engagement, content performance, churn, and stakeholder requirements.
 
