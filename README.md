@@ -35,3 +35,10 @@ Key Responsibilities
 - Generated business insights and strategic recommendations based on analytical findings.
 
 ---
+
+<h2><a class="anchor" id="Problem-Statement"></a>Problem Statement</h2>
+StreamVerse OTT Pvt. Ltd. is experiencing declining viewer engagement, increasing subscription churn, inconsistent content performance, playback quality issues, and low recommendation conversion. The absence of a centralized analytics solution makes it difficult to understand user behavior, identify churn-risk customers, evaluate content and subscription performance, and measure recommendation and campaign effectiveness.
+
+The project aims to analyze OTT platform data and provide actionable insights to improve viewer engagement, reduce subscription churn, optimize content and subscription strategies, and support data-driven business decisions.
+
+---
