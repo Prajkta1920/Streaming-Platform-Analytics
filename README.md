@@ -1,9 +1,12 @@
 # StreamVerse OTT Platform
 StreamVerse OTT Platform Analytics is an end-to-end Business Intelligence and Customer Churn Analysis project developed to analyze customer behavior, content performance, subscriber growth, engagement patterns, and revenue trends within an OTT streaming platform.
+
 ---
 
 ## Dataset Note
 The project was developed using a large-scale OTT dataset containing **13.5M+ streaming records across multiple relational tables**. Due to GitHub file-size limitations, only selected smaller datasets and representative files are included in this repository. The complete datasets were used for SQL analysis, Python-based EDA, feature engineering, and Power BI dashboard development.
+
+---
 
 ## Table of Contents
 - <a href="#overview">Overview</a>
@@ -12,6 +15,8 @@ The project was developed using a large-scale OTT dataset containing **13.5M+ st
 - <a href="#method">Method</a>
 - <a href="#dashboard">Dashboard</a>
 - <a href="#author">Author and Contact</a>
+
+---
 
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
@@ -56,6 +61,7 @@ The project aims to analyze OTT platform data and provide actionable insights to
 - **GitHub:** Project version control and portfolio management.
 
 ---
+
 <h2><a class="anchor" id="method"></a>Method or Framework Followed </h2>
 The StreamVerse OTT Platform Analytics project follows an end-to-end analytics framework that moves from understanding the business problem to delivering actionable business recommendations.
 
@@ -95,6 +101,8 @@ The StreamVerse OTT Platform Analytics project follows an end-to-end analytics f
 
 ![Recommendations](https://github.com/Prajkta1920/Streaming-Platform-Analytics/blob/e62e2dc8be5549095731c15b08dacded12c557f8/dashboard/Page07.png)
 
+---
+
 ## Result and Conclusion
 
 * **Key Finding:**
@@ -114,3 +122,13 @@ The StreamVerse OTT Platform Analytics project follows an end-to-end analytics f
 * **Final Word:** The analysis demonstrates that OTT growth is not driven by subscriber numbers alone—it depends on understanding customer behavior, content performance, engagement, and overall streaming experience. By combining data-driven retention strategies with optimized content, personalized recommendations, and improved platform quality, StreamVerse can reduce churn, strengthen customer engagement, and build a more sustainable and profitable streaming business.
 
 ---
+
+## 👤 Author
+* **Name:** Prajkta Khandare
+* **Role:** Data Analyst / Business Analyst
+
+## 📩 Contact
+* **LinkedIn:** [www.linkedin.com/in/prajakta-khandare-7906b4259]
+* **Email:** [prajaktakhandare2003@gmial.com]
+
+* **GitHub:** [https://github.com/Prajkta1920]
