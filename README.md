@@ -71,4 +71,10 @@ The StreamVerse OTT Platform Analytics project follows an end-to-end analytics f
 
 7. **Power BI Dashboarding:** Develop dashboards covering executive performance, viewer engagement, content performance, subscription & revenue, recommendation & playback, and campaign & complaint analytics.
 
-8. **Business Insights & Recommendations:** Convert the analysis into actionable recommendations focused on customer retention, content strategy, playback improvements, recommendation effectiveness, and campaign strategy.
+8. **Business Insights & Recommendations:** Convert the analysis into actionable recommendations focused on customer retention, content strategy, playback improvements, recommendation effectiveness, and campaign strategy
+
+---
+
+<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
+
+
