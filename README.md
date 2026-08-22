@@ -79,5 +79,14 @@ The StreamVerse OTT Platform Analytics project follows an end-to-end analytics f
 
 ![Executive Ott Dashboard](https://github.com/Prajkta1920/Streaming-Platform-Analytics/blob/99965a9c9476349c6aad9d0732fbc92a553b1825/dashboard/Page01.png)
 
+![Product Analysis Dashboard](https://github.com/Prajkta1920/Streaming-Platform-Analytics/blob/e62e2dc8be5549095731c15b08dacded12c557f8/dashboard/Page02.png)
+
+![Content Performance Analytics](https://github.com/Prajkta1920/Streaming-Platform-Analytics/blob/e62e2dc8be5549095731c15b08dacded12c557f8/dashboard/Page03.png)
+
+![Subscription and Revenue Analytics](https://github.com/Prajkta1920/Streaming-Platform-Analytics/blob/e62e2dc8be5549095731c15b08dacded12c557f8/dashboard/Page04.png)
+
+![Reccomendation and Playback Analytics](https://github.com/Prajkta1920/Streaming-Platform-Analytics/blob/e62e2dc8be5549095731c15b08dacded12c557f8/dashboard/Page005.png)
+
 ![Campaign and Complaint Analytics](https://github.com/Prajkta1920/Streaming-Platform-Analytics/blob/b5edfc64f9a2f65984c37218b198c8a9bc5841b1/dashboard/Page006.png)
 
+![Recommendations](https://github.com/Prajkta1920/Streaming-Platform-Analytics/blob/e62e2dc8be5549095731c15b08dacded12c557f8/dashboard/Page07.png)
